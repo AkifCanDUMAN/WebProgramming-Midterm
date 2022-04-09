@@ -10,6 +10,10 @@ COM20/B
 An application for the student advisory system. In this application, the student's name, surname, and e-mail are entered and it is an application to register the students.
 This application is a system that can be developed in the future and may be useful for many institutions.
 
+## Deploy Online
+
+ https://webprogramming-midterm.herokuapp.com/
+
 ## ERD Images
 
 ![Image](https://user-images.githubusercontent.com/73740265/162585645-c4cd7a1e-837f-414d-a978-5f8aaf969c95.jpg)
